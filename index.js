@@ -4,8 +4,8 @@ const client = new Client({
   intents: [1 << 0, 1 << 1] // 1 << 0 represents GUILDS, 1 << 1 represents GUILD_MESSAGES
 });
 
-const token = 'MTE2MTA1NDk3MDk5NzY0OTU0MA.GFWxrO.b9J4eZxXm57g9tl7rONJGDDmWnuwzyedSAmXXA';
-const channelIDs = ['1161036549220220950', '1158758169162555462', '1158712033705996298', '1158684551221092364','1158435616049074259'];
+const token = 'bot_token_here';
+const channelIDs = ['channelID_1', 'channelID_2', 'channelID_3', 'channelID_4','channelID_5'];
 const symbol = '🔥';
 
 client.once('ready', () => {
