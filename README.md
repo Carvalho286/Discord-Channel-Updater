@@ -1,6 +1,6 @@
 # Discord Bot Channel Updater
 
-### Objective
+### Goal
 
 I created this bot with the intention to send an automatic message every day to a chat, or a group of chats, and delete it 10 seconds later.
 
